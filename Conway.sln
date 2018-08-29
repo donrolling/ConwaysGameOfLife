@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conway", "Conway\Conway.csproj", "{86DC16E8-94E5-45B4-BF06-2F98D68F083E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife.csproj", "{EC7EE77B-AF06-476C-8B06-75A15600CF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLifeTests", "GmaeOfLifeTests\GameOfLifeTests.csproj", "{E58A069C-2D01-4B81-8898-122A8EA42397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DC16E8-94E5-45B4-BF06-2F98D68F083E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DC16E8-94E5-45B4-BF06-2F98D68F083E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DC16E8-94E5-45B4-BF06-2F98D68F083E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DC16E8-94E5-45B4-BF06-2F98D68F083E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7EE77B-AF06-476C-8B06-75A15600CF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7EE77B-AF06-476C-8B06-75A15600CF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7EE77B-AF06-476C-8B06-75A15600CF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7EE77B-AF06-476C-8B06-75A15600CF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58A069C-2D01-4B81-8898-122A8EA42397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58A069C-2D01-4B81-8898-122A8EA42397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58A069C-2D01-4B81-8898-122A8EA42397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58A069C-2D01-4B81-8898-122A8EA42397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://donrolling.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Conway\\Conway.csproj
+		SccProjectName1 = Conway
+		SccLocalPath1 = Conway
+		SccProjectUniqueName2 = GameOfLife\\GameOfLife.csproj
+		SccProjectName2 = GameOfLife
+		SccLocalPath2 = GameOfLife
+		SccProjectUniqueName3 = GmaeOfLifeTests\\GameOfLifeTests.csproj
+		SccProjectName3 = GmaeOfLifeTests
+		SccLocalPath3 = GmaeOfLifeTests
+	EndGlobalSection
+EndGlobal
